@@ -1,0 +1,35 @@
+body {
+    background-color: crimson;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuerpo {
+    border: solid cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    
+}
+
+
+.titulo {
+    margin-top: 10px;
+    color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.buton {
+    margin-top: 20px;
+
+}
+.principal
+{
+text-align: center;
+justify-content: center;
+
+}
